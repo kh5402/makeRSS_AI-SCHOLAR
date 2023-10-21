@@ -206,7 +206,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -620,7 +624,11 @@
     
     
     
+    
+    
     <description>AI-SCHOLARからの情報を提供します。</description>
+    
+    
     
     
     
@@ -1034,7 +1042,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1448,7 +1460,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/large-language-models/is-emergence-a-mirage</link>
+      
+      
       
       
       
@@ -1759,6 +1775,8 @@
       
       
       
+      
+    
     
     
     
@@ -2069,7 +2087,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2483,7 +2505,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/diffusion-model/make-an-audio</link>
+      
+      
       
       
       
@@ -2794,6 +2820,8 @@
       
       
       
+      
+    
     
     
     
@@ -3104,7 +3132,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3518,7 +3550,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/alignment/creativity_of_llm</link>
+      
+      
       
       
       
@@ -3829,6 +3865,8 @@
       
       
       
+      
+    
     
     
     
@@ -4139,7 +4177,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4553,7 +4595,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/reconcile</link>
+      
+      
       
       
       
@@ -4864,6 +4910,8 @@
       
       
       
+      
+    
     
     
     
@@ -5174,7 +5222,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -5588,7 +5640,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/offline-reinforcement-learning/wikipedia-help-learning</link>
+      
+      
       
       
       
@@ -5899,6 +5955,8 @@
       
       
       
+      
+    
     
     
     
@@ -6209,7 +6267,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -6623,7 +6685,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/prompting-method/PHP</link>
+      
+      
       
       
       
@@ -6934,6 +7000,8 @@
       
       
       
+      
+    
     
     
     
@@ -7244,7 +7312,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -7658,7 +7730,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/mindagent</link>
+      
+      
       
       
       
@@ -7969,6 +8045,8 @@
       
       
       
+      
+    
     
     
     
@@ -8279,7 +8357,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -8693,7 +8775,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/federate-learning/MOON</link>
+      
+      
       
       
       
@@ -9004,6 +9090,8 @@
       
       
       
+      
+    
     
     
     
@@ -9314,7 +9402,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -9728,7 +9820,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/rvs/ESPER</link>
+      
+      
       
       
       
@@ -10039,6 +10135,8 @@
       
       
       
+      
+    
     
     
     
@@ -10349,7 +10447,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -10763,7 +10865,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/offline-pre-training-and-online-finetuning/Jump-Start</link>
+      
+      
       
       
       
@@ -11074,6 +11180,8 @@
       
       
       
+      
+    
     
     
     
@@ -11384,7 +11492,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -11798,7 +11910,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/diffusion-model/text-to-music-mousai</link>
+      
+      
       
       
       
@@ -12109,6 +12225,8 @@
       
       
       
+      
+    
     
     
     
@@ -12419,7 +12537,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -12833,7 +12955,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/survey/survey_affective_computing</link>
+      
+      
       
       
       
@@ -13144,6 +13270,8 @@
       
       
       
+      
+    
     
     
     
@@ -13454,7 +13582,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -13868,7 +14000,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/LCBM</link>
+      
+      
       
       
       
@@ -14179,6 +14315,8 @@
       
       
       
+      
+    
     
     
     
@@ -14489,7 +14627,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -14903,7 +15045,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/expel</link>
+      
+      
       
       
       
@@ -15214,6 +15360,8 @@
       
       
       
+      
+    
     
     
     
@@ -15524,7 +15672,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -15938,7 +16090,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/offline-reinforcement-learning/Q-Learning</link>
+      
+      
       
       
       
@@ -16249,6 +16405,8 @@
       
       
       
+      
+    
     
     
     
@@ -16559,7 +16717,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -16973,7 +17135,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/large-language-models/minds_eye</link>
+      
+      
       
       
       
@@ -17284,6 +17450,8 @@
       
       
       
+      
+    
     
     
     
@@ -17594,7 +17762,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -18008,7 +18180,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/federate-learning/FedOD</link>
+      
+      
       
       
       
@@ -18319,6 +18495,8 @@
       
       
       
+      
+    
     
     
     
@@ -18629,7 +18807,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -19043,7 +19225,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/autogen</link>
+      
+      
       
       
       
@@ -19354,6 +19540,8 @@
       
       
       
+      
+    
     
     
     
@@ -19664,7 +19852,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -20078,7 +20270,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/expel</link>
+      
+      
       
       
       
@@ -20389,6 +20585,8 @@
       
       
       
+      
+    
     
     
     
@@ -20699,7 +20897,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -21113,7 +21315,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/meta-gpt</link>
+      
+      
       
       
       
@@ -21424,6 +21630,8 @@
       
       
       
+      
+    
     
     
     
@@ -21734,7 +21942,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -22148,7 +22360,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/gnn/GNN_review</link>
+      
+      
       
       
       
@@ -22459,6 +22675,8 @@
       
       
       
+      
+    
     
     
     
@@ -22769,7 +22987,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -23183,7 +23405,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/prompting-method/PHP</link>
+      
+      
       
       
       
@@ -23494,6 +23720,8 @@
       
       
       
+      
+    
     
     
     
@@ -23804,7 +24032,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -24218,7 +24450,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/large-language-models/glam_llm_as_rl_agent</link>
+      
+      
       
       
       
@@ -24529,6 +24765,8 @@
       
       
       
+      
+    
     
     
     
@@ -24839,7 +25077,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -25253,7 +25495,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/reconcile</link>
+      
+      
       
       
       
@@ -25564,6 +25810,8 @@
       
       
       
+      
+    
     
     
     
@@ -25874,7 +26122,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -26288,7 +26540,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/deep-learning/internimage</link>
+      
+      
       
       
       
@@ -26599,6 +26855,8 @@
       
       
       
+      
+    
     
     
     
@@ -26909,7 +27167,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -27323,7 +27585,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/agent-simulation/chateval</link>
+      
+      
       
       
       
@@ -27634,6 +27900,8 @@
       
       
       
+      
+    
     
     
     
@@ -27944,7 +28212,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -28358,7 +28630,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/nerf/nerf</link>
+      
+      
       
       
       
@@ -28669,6 +28945,8 @@
       
       
       
+      
+    
     
     
     
@@ -28979,7 +29257,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -29393,7 +29675,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/federate-learning/MOON</link>
+      
+      
       
       
       
@@ -29704,6 +29990,8 @@
       
       
       
+      
+    
     
     
     
@@ -29911,6 +30199,7 @@
     
     
     
+    
   
   
   
@@ -29929,6 +30218,7 @@
   
   
   
+    
     
     
     
@@ -30015,6 +30305,8 @@
     
     
     <item>
+      
+      
       
       
       
@@ -30356,7 +30648,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/transformer/MusicLM</link>
+      
+      
       
       
       
@@ -30613,6 +30909,8 @@
       
       
       
+      
+    
     
     
     
@@ -30784,6 +31082,7 @@
     
     
     
+    
   
   
   
@@ -30848,6 +31147,7 @@
   
   
   
+    
     
     
     
@@ -30870,6 +31170,8 @@
     
     
     <item>
+      
+      
       
       
       
@@ -30955,7 +31257,11 @@
       
       
       
+      
+      
       <link>https://ai-scholar.tech/articles/survey/activation-functions-review</link>
+      
+      
       
       
       
@@ -31020,6 +31326,8 @@
       
       
       
+      
+    
     
     
     
@@ -31063,6 +31371,8 @@
     
     
     
+    
+  
   
   
   
@@ -31188,6 +31498,8 @@
   
   
   
+  
+
 
 
 
