@@ -159,5 +159,10 @@
       <link>https://ai-scholar.tech/articles/time-series/need_DL_for_TSF</link>
       <pubDate>2022-05-21 14:45:11</pubDate>
     </item>
+    <item>
+      <title> 【MuLan】対照学習を利用したMusic-Textのマルチモーダル  </title>
+      <link>https://ai-scholar.tech/articles/contrastive-learning/mulan</link>
+      <pubDate>2023-10-24 12:00:02</pubDate>
+    </item>
   </channel>
 </rss>
