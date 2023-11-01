@@ -179,5 +179,10 @@
       <link>https://ai-scholar.tech/articles/bert/I-BERT</link>
       <pubDate>2023-11-01 11:45:05</pubDate>
     </item>
+    <item>
+      <title> I-BERT：整数型のみで推論可能なBERT  </title>
+      <link>https://ai-scholar.tech/articles/other/I-BERT</link>
+      <pubDate>2023-11-01 11:45:05</pubDate>
+    </item>
   </channel>
 </rss>
