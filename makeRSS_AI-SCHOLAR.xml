@@ -199,5 +199,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/factool</link>
       <pubDate>2023-11-07 12:00:02</pubDate>
     </item>
+    <item>
+      <title> よりリアルで公平な顔認識向け合成データセットを提供する新しいフレームワーク「GANDiffFace」  </title>
+      <link>https://ai-scholar.tech/articles/face-recognition/gan-diff-face</link>
+      <pubDate>2023-11-07 17:00:51</pubDate>
+    </item>
   </channel>
 </rss>
