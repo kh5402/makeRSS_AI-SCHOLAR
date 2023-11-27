@@ -259,5 +259,10 @@
       <link>https://ai-scholar.tech/articles/contrastive-learning/LP-MusicCaps</link>
       <pubDate>2023-11-20 12:00:29</pubDate>
     </item>
+    <item>
+      <title> AIと倫理：合成した顔画像のデータセットで顔認識アルゴリズムのバイアスの影響をより正確に分析！！  </title>
+      <link>https://ai-scholar.tech/articles/face-recognition/benchmarking-algorithmic-bias</link>
+      <pubDate>2023-11-27 12:00:02</pubDate>
+    </item>
   </channel>
 </rss>
