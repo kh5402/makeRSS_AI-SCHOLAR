@@ -274,5 +274,10 @@
       <link>https://ai-scholar.tech/articles/face-recognition/idiff-face</link>
       <pubDate>2023-11-29 22:01:16</pubDate>
     </item>
+    <item>
+      <title> EUREKA：LLMを用いた報酬設計の自動化  </title>
+      <link>https://ai-scholar.tech/articles/rlhf/eureka_reward_design</link>
+      <pubDate>2023-12-04 12:00:53</pubDate>
+    </item>
   </channel>
 </rss>
