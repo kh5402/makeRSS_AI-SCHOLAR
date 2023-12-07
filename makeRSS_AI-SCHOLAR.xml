@@ -294,5 +294,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/brain2music</link>
       <pubDate>2023-12-06 11:15:46</pubDate>
     </item>
+    <item>
+      <title> 自己教師付き学習と統合学習による製造業のモデル汎化の最大化  </title>
+      <link>https://ai-scholar.tech/articles/federate-learning/SSL_FL</link>
+      <pubDate>2023-12-07 20:01:13</pubDate>
+    </item>
   </channel>
 </rss>
