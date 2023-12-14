@@ -324,5 +324,10 @@
       <link>https://ai-scholar.tech/articles/iot/IoT_ImageTransfer</link>
       <pubDate>2023-12-13 12:01:35</pubDate>
     </item>
+    <item>
+      <title> 【UniD3】画像と文章を統合的に扱うマルチモーダル離散拡散モデル  </title>
+      <link>https://ai-scholar.tech/articles/diffusion-model/unified-discrete-diffusion</link>
+      <pubDate>2023-12-14 20:15:55</pubDate>
+    </item>
   </channel>
 </rss>
