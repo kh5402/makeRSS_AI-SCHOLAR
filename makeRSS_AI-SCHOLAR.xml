@@ -349,5 +349,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/ui-layout-generation</link>
       <pubDate>2023-12-19 12:01:35</pubDate>
     </item>
+    <item>
+      <title> 【CLAP】音声とテキストの対照学習モデル  </title>
+      <link>https://ai-scholar.tech/articles/contrastive-learning/contrastive-language-audio</link>
+      <pubDate>2023-12-21 07:59:01</pubDate>
+    </item>
   </channel>
 </rss>
