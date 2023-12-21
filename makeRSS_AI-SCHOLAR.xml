@@ -354,5 +354,10 @@
       <link>https://ai-scholar.tech/articles/contrastive-learning/contrastive-language-audio</link>
       <pubDate>2023-12-21 07:59:01</pubDate>
     </item>
+    <item>
+      <title> 【Versatile Diffusion】テキストと画像を統合的に扱う拡散モデル  </title>
+      <link>https://ai-scholar.tech/articles/diffusion-model/versatile-multimodal</link>
+      <pubDate>2023-12-21 20:56:18</pubDate>
+    </item>
   </channel>
 </rss>
