@@ -379,5 +379,10 @@
       <link>https://ai-scholar.tech/articles/image-recognition/convolutional-networks-for-image-recognition</link>
       <pubDate>2023-12-28 11:15:16</pubDate>
     </item>
+    <item>
+      <title> U-Net：生物医学画像セグメンテーションのための畳み込みネットワーク  </title>
+      <link>https://ai-scholar.tech/articles/computer-vision/u-net</link>
+      <pubDate>2023-12-29 11:00:44</pubDate>
+    </item>
   </channel>
 </rss>
