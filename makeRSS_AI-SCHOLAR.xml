@@ -474,5 +474,10 @@
       <link>https://ai-scholar.tech/articles/chatgpt/ChatGPT-task-solver</link>
       <pubDate>2024-01-26 10:30:46</pubDate>
     </item>
+    <item>
+      <title> アップルがメモリ容量が限られたデバイス上で効率的な大規模言語モデルの推論を実現  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/LLM-load-from-flash-windowing-row-column-bundling</link>
+      <pubDate>2024-01-29 11:47:50</pubDate>
+    </item>
   </channel>
 </rss>
