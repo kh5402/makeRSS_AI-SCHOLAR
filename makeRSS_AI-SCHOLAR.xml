@@ -489,5 +489,15 @@
       <link>https://ai-scholar.tech/articles/chatgpt/Imitating-Proprietary-LLMs</link>
       <pubDate>2024-01-31 11:27:32</pubDate>
     </item>
+    <item>
+      <title> 【DPO】強化学習を用いずに大規模言語モデルをユーザの好みに直接合わせる手法  </title>
+      <link>https://ai-scholar.tech/articles/rlhf/Direct-Preference-Optimization</link>
+      <pubDate>2024-02-02 12:50:42</pubDate>
+    </item>
+    <item>
+      <title> GPTは他者の心の状態を推測できる？AI×心理学のすゝめ  </title>
+      <link>https://ai-scholar.tech/articles/computation-and-language/Theory-of-Mind</link>
+      <pubDate>2024-02-02 12:50:09</pubDate>
+    </item>
   </channel>
 </rss>
