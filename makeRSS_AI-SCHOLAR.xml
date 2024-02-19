@@ -544,5 +544,15 @@
       <link>https://ai-scholar.tech/articles/machine-learning/AI-Maintenance</link>
       <pubDate>2024-02-16 10:05:11</pubDate>
     </item>
+    <item>
+      <title> Metaがベイズ最適化の予想外の改善を実現  </title>
+      <link>https://ai-scholar.tech/articles/bayesian-optimization/LogEI</link>
+      <pubDate>2024-02-19 20:04:43</pubDate>
+    </item>
+    <item>
+      <title> 複数種類の生物学的データを統合する半教師有り協調学習  </title>
+      <link>https://ai-scholar.tech/articles/semi-supervised/semisupervised-cooperative-learning</link>
+      <pubDate>2024-02-19 20:04:05</pubDate>
+    </item>
   </channel>
 </rss>
