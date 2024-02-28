@@ -569,5 +569,15 @@
       <link>https://ai-scholar.tech/articles/computation-and-language/GPT-Takes-the-Bar-Exam</link>
       <pubDate>2024-02-26 12:10:16</pubDate>
     </item>
+    <item>
+      <title> Metaがツールの使い方を覚える言語モデルToolformerを開発  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/Toolformer</link>
+      <pubDate>2024-02-28 20:50:18</pubDate>
+    </item>
+    <item>
+      <title> InstructPix2Pix: ユーザーの指示に基づき画像を編集するモデルの登場  </title>
+      <link>https://ai-scholar.tech/articles/computer-vision/InstructPix2Pix</link>
+      <pubDate>2024-02-28 20:49:18</pubDate>
+    </item>
   </channel>
 </rss>
