@@ -594,5 +594,10 @@
       <link>https://ai-scholar.tech/articles/face-recognition/DiFF</link>
       <pubDate>2024-03-04 10:49:56</pubDate>
     </item>
+    <item>
+      <title> データ制約のあるLLMの限界と解決策  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/data-constrained-scaling-law</link>
+      <pubDate>2024-03-05 09:25:17</pubDate>
+    </item>
   </channel>
 </rss>
