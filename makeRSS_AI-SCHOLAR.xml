@@ -634,5 +634,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/evaluation-of-GPT-on-CFA-exams</link>
       <pubDate>2024-03-14 10:27:43</pubDate>
     </item>
+    <item>
+      <title> ニューラルランカー（ランキングモデル）と大規模言語モデルによる臨床試験検索の強化  </title>
+      <link>https://ai-scholar.tech/articles/information-retrieval/neural-rankers-and-llms</link>
+      <pubDate>2024-03-15 11:06:59</pubDate>
+    </item>
   </channel>
 </rss>
