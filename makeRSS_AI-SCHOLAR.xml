@@ -664,5 +664,25 @@
       <link>https://ai-scholar.tech/articles/image-recognition/swin-transformer</link>
       <pubDate>2024-03-22 12:01:14</pubDate>
     </item>
+    <item>
+      <title> AnyGPT：画像、音声、テキストを統合する次世代のマルチモーダル大規模言語モデルの登場  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/anygpt</link>
+      <pubDate>2024-03-28 13:09:26</pubDate>
+    </item>
+    <item>
+      <title> 【FinBen】金融領域におけるLLMの能力と限界を評価するベンチマーク  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/finben</link>
+      <pubDate>2024-03-28 13:09:05</pubDate>
+    </item>
+    <item>
+      <title> PCC-GAN:3DポイントベースのコンテキストクラスタGANによる高品質PET画像再構成  </title>
+      <link>https://ai-scholar.tech/articles/gan/PCC-GAN</link>
+      <pubDate>2024-03-28 13:08:47</pubDate>
+    </item>
+    <item>
+      <title> 大規模言語モデルは化学分野で何ができるのか？化学研究におけるLLMの役割と可能性  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/what-can-llm-do-in-chemistry</link>
+      <pubDate>2024-03-28 13:08:22</pubDate>
+    </item>
   </channel>
 </rss>
