@@ -699,5 +699,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/assessment-of-chemistry-knowledge-in-llm</link>
       <pubDate>2024-04-02 10:16:49</pubDate>
     </item>
+    <item>
+      <title> ConvNeXt V2：マスクオートエンコーダによるConvNetsの改善とスケーリング  </title>
+      <link>https://ai-scholar.tech/articles/image-recognition/convnext-v2</link>
+      <pubDate>2024-04-03 08:00:09</pubDate>
+    </item>
   </channel>
 </rss>
