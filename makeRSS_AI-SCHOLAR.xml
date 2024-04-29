@@ -799,5 +799,10 @@
       <link>https://ai-scholar.tech/articles/machine-learning/forecasting-with-language-models</link>
       <pubDate>2024-04-26 13:20:44</pubDate>
     </item>
+    <item>
+      <title> Federated Learningのための堅牢な重み付け戦略の提案  </title>
+      <link>https://ai-scholar.tech/articles/federate-learning/aggregation_weightinh_of_federated_learning</link>
+      <pubDate>2024-04-29 09:47:50</pubDate>
+    </item>
   </channel>
 </rss>
