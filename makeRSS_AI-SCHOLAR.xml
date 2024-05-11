@@ -819,5 +819,10 @@
       <link>https://ai-scholar.tech/articles/recommendation/merrec</link>
       <pubDate>2024-05-10 17:35:02</pubDate>
     </item>
+    <item>
+      <title> 「二兎を追う者は一兎をも得ず」: 制御可能なモデルの調整と性能向上のトレードオフ  </title>
+      <link>https://ai-scholar.tech/articles/computation-and-language/Controllable-Preference-Optimization</link>
+      <pubDate>2024-05-11 08:55:02</pubDate>
+    </item>
   </channel>
 </rss>
