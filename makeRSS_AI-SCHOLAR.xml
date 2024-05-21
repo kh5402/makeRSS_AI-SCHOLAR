@@ -854,5 +854,10 @@
       <link>https://ai-scholar.tech/articles/image-generation/add</link>
       <pubDate>2024-05-21 11:30:13</pubDate>
     </item>
+    <item>
+      <title> ADD: 敵対的学習と知識蒸留を用いた拡散モデル  </title>
+      <link>https://ai-scholar.tech/articles/image-generation/diffusion-transformer</link>
+      <pubDate>2024-05-21 18:33:45</pubDate>
+    </item>
   </channel>
 </rss>
