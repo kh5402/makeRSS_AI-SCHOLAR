@@ -909,5 +909,10 @@
       <link>https://ai-scholar.tech/articles/fake-detection/clipping-diception</link>
       <pubDate>2024-05-25 20:17:02</pubDate>
     </item>
+    <item>
+      <title> Disentangled Diffusion：単一の画像から複数の概念を抽出するT2Iモデル  </title>
+      <link>https://ai-scholar.tech/articles/image-generation/T2I-DisenDiff</link>
+      <pubDate>2024-05-26 12:38:24</pubDate>
+    </item>
   </channel>
 </rss>
