@@ -914,5 +914,20 @@
       <link>https://ai-scholar.tech/articles/image-generation/T2I-DisenDiff</link>
       <pubDate>2024-05-26 12:38:24</pubDate>
     </item>
+    <item>
+      <title> フェイクニュースの検出に初めてLLMを活用したフレームワークが登場！  </title>
+      <link>https://ai-scholar.tech/articles/fakenews/STEEL</link>
+      <pubDate>2024-05-26 15:18:27</pubDate>
+    </item>
+    <item>
+      <title> EdgeConvFormer：多変量時系列における動的グラフCNNと変換器に基づく異常検出  </title>
+      <link>https://ai-scholar.tech/articles/time-series/EdgeConvFormer</link>
+      <pubDate>2024-05-26 15:06:27</pubDate>
+    </item>
+    <item>
+      <title> 工学設計のためのビジョン言語モデルの評価（コンセプトから製造まで）  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/vlm_engineering_design﻿</link>
+      <pubDate>2024-05-26 15:05:22</pubDate>
+    </item>
   </channel>
 </rss>
