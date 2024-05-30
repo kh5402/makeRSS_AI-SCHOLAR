@@ -989,5 +989,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/diffusiongpt</link>
       <pubDate>2024-05-30 15:50:42</pubDate>
     </item>
+    <item>
+      <title> 会話型検索システムにおける、LLMによるネイティブ広告の検出とブロックの実現可能性  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/detecting-generated-native-ads-in-conversational-search</link>
+      <pubDate>2024-05-30 18:40:48</pubDate>
+    </item>
   </channel>
 </rss>
