@@ -1134,5 +1134,10 @@
       <link>https://ai-scholar.tech/articles/audio-and-speech-processing/mustango</link>
       <pubDate>2024-07-01 19:18:16</pubDate>
     </item>
+    <item>
+      <title> 潜在拡散モデルは必ずしも「サイズを大きくすれば良い」というわけではない  </title>
+      <link>https://ai-scholar.tech/articles/diffusion-model/scaling-properties-ldm</link>
+      <pubDate>2024-07-10 13:00:21</pubDate>
+    </item>
   </channel>
 </rss>
