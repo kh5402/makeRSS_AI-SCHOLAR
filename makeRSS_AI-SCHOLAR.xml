@@ -1179,5 +1179,10 @@
       <link>https://ai-scholar.tech/articles/chatgpt/JMMLU</link>
       <pubDate>2024-07-26 18:52:42</pubDate>
     </item>
+    <item>
+      <title> モデル自身が自分に報酬を与えてトレーニングを行う！？  </title>
+      <link>https://ai-scholar.tech/articles/self-rewarding/Self-Rewarding-LLM</link>
+      <pubDate>2024-07-28 14:43:41</pubDate>
+    </item>
   </channel>
 </rss>
