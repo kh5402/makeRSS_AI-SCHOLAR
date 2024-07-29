@@ -1204,5 +1204,10 @@
       <link>https://ai-scholar.tech/articles/image-generation/diffussm</link>
       <pubDate>2024-07-29 15:32:54</pubDate>
     </item>
+    <item>
+      <title> 【FreqNet】 周波数空間での学習による汎用的ディープフェイク検知  </title>
+      <link>https://ai-scholar.tech/articles/fake-detection/FreqNet</link>
+      <pubDate>2024-07-29 17:15:07</pubDate>
+    </item>
   </channel>
 </rss>
