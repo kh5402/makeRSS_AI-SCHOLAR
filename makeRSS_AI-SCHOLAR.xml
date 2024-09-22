@@ -1404,5 +1404,10 @@
       <link>https://ai-scholar.tech/articles/speech-recognition-for-the-dysarthric/XLS-R</link>
       <pubDate>2024-09-21 14:34:30</pubDate>
     </item>
+    <item>
+      <title> 【構音障害の重症度分類を自動化！？】wav2vec2をも上回るSALRの導入実験  </title>
+      <link>https://ai-scholar.tech/articles/speech-recognition-for-the-dysarthric/Speaker-Independent-Dysarthria</link>
+      <pubDate>2024-09-22 13:44:53</pubDate>
+    </item>
   </channel>
 </rss>
