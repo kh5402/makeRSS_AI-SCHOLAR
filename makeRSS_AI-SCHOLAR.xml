@@ -1439,5 +1439,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/llms-as-writing-assistants</link>
       <pubDate>2024-09-25 16:49:35</pubDate>
     </item>
+    <item>
+      <title> 【beeFormer】推薦システムでのテキスト情報とインタラクションデータを組み合わせてTransformerを学習  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/beeFormer</link>
+      <pubDate>2024-09-25 18:08:02</pubDate>
+    </item>
   </channel>
 </rss>
