@@ -1519,5 +1519,10 @@
       <link>https://ai-scholar.tech/articles/diffusion-model/PIDM</link>
       <pubDate>2024-09-30 16:59:36</pubDate>
     </item>
+    <item>
+      <title> より良いAttention機構がLLMの長文処理の性能を向上させる！  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/Long-Context-extension-generalization</link>
+      <pubDate>2024-09-30 17:50:33</pubDate>
+    </item>
   </channel>
 </rss>
