@@ -1584,5 +1584,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/WavLM</link>
       <pubDate>2024-10-18 18:25:49</pubDate>
     </item>
+    <item>
+      <title> 可積分系の偏微分方程式（PDE）の発見を自動化する初の機械学習手法  </title>
+      <link>https://ai-scholar.tech/articles/other/OptPDE</link>
+      <pubDate>2024-10-21 12:20:33</pubDate>
+    </item>
   </channel>
 </rss>
