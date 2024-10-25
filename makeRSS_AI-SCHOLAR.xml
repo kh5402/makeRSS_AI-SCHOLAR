@@ -1609,5 +1609,10 @@
       <link>https://ai-scholar.tech/articles/neural-network/VAEneu</link>
       <pubDate>2024-10-25 12:55:29</pubDate>
     </item>
+    <item>
+      <title> IoTデバイス向き：推論負荷を分散する連合学習手法  </title>
+      <link>https://ai-scholar.tech/articles/iot/Federated-Learning-CIS</link>
+      <pubDate>2024-10-25 17:54:44</pubDate>
+    </item>
   </channel>
 </rss>
