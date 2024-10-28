@@ -1614,5 +1614,10 @@
       <link>https://ai-scholar.tech/articles/iot/Federated-Learning-CIS</link>
       <pubDate>2024-10-25 17:54:44</pubDate>
     </item>
+    <item>
+      <title> 大規模言語モデルにおけるデータ汚染分野の包括的な調査と「LLMSanitize」  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/LLMSanitize</link>
+      <pubDate>2024-10-28 12:00:24</pubDate>
+    </item>
   </channel>
 </rss>
