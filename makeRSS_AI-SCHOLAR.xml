@@ -1619,5 +1619,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/LLMSanitize</link>
       <pubDate>2024-10-28 12:00:24</pubDate>
     </item>
+    <item>
+      <title> 生成モデルと大規模言語モデルによって進化するレコメンドシステムGen-RecSysの体系的な調査  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/review-gen-recsys</link>
+      <pubDate>2024-10-28 19:41:28</pubDate>
+    </item>
   </channel>
 </rss>
