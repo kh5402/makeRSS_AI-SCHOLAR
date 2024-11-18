@@ -1734,5 +1734,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/chatgpt-contamination</link>
       <pubDate>2024-11-15 12:01:46</pubDate>
     </item>
+    <item>
+      <title> 長文のQAタスクの精度向上！大規模言語モデルのlost in the middleの現象を緩和する、リプロンプティングと文脈内検索 ... </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/reprompting-In-context-retrieval</link>
+      <pubDate>2024-11-18 12:01:01</pubDate>
+    </item>
   </channel>
 </rss>
