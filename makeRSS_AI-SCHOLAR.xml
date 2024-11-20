@@ -1744,5 +1744,10 @@
       <link>https://ai-scholar.tech/articles/large-language-models/drugllm</link>
       <pubDate>2024-11-19 13:01:00</pubDate>
     </item>
+    <item>
+      <title> 大規模言語モデルを活用したデータ汚染の検出手法  </title>
+      <link>https://ai-scholar.tech/articles/large-language-models/llm-decontaminator</link>
+      <pubDate>2024-11-20 18:07:54</pubDate>
+    </item>
   </channel>
 </rss>
