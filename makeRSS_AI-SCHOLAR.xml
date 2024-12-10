@@ -1819,5 +1819,10 @@
       <link>https://ai-scholar.tech/articles/neural-network/timex++</link>
       <pubDate>2024-12-09 18:22:46</pubDate>
     </item>
+    <item>
+      <title> Cross-Layer AttentionによってTransformerのメモリを大幅に削減  </title>
+      <link>https://ai-scholar.tech/articles/transformer/transformer-cla</link>
+      <pubDate>2024-12-10 13:22:33</pubDate>
+    </item>
   </channel>
 </rss>
