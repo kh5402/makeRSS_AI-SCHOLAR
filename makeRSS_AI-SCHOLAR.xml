@@ -2029,5 +2029,10 @@
       <link>https://ai-scholar.tech/articles/chatgpt/Sales-Agent-User-agent</link>
       <pubDate>2025-02-05 12:21:34</pubDate>
     </item>
+    <item>
+      <title> LLMでドメイン汎化のための学習データを作る  </title>
+      <link>https://ai-scholar.tech/articles/dataset-synthesis-with-llm/llm-synthetic-data</link>
+      <pubDate>2025-02-06 12:22:05</pubDate>
+    </item>
   </channel>
 </rss>
